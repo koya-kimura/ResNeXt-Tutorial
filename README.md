@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-このリポジトリは、**ResNetを既に学び、ResNeXtの基本構造と実装の感覚を掴みたい初学者**の方を対象とした学習コンテンツです。深層学習フレームワークとしてPyTorchを使用し、ResNeXtの理論的背景から実践的な実装までを段階的に学ぶことができます。
+本リポジトリは、**ResNetを既に学び、ResNeXtの基本構造と実装の感覚を掴みたい初学者**の方を対象とした学習コンテンツです。深層学習フレームワークとしてPyTorchを使用し、ResNeXtの理論的背景から実践的な実装までを段階的に学ぶことができます。
 
 ## 🚀 学習目標
 
