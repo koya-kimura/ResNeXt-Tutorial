@@ -1,0 +1,42 @@
+# OS generated files
+.DS_Store # ここに含まれています
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+# Jupyter's hidden folder for notebook checkpoints
+
+# Data
+scripts/data/
+# Or specific data files like:
+# *.csv
+# *.txt
+
+# Models
+models/
+# Or specific model files like:
+# *.pth
+# *.pt
+# *.h5
+
+# Logs
+logs/
+*.log
+
+# Personal memo folder
+memo/
+
+# IDE specific files
+.idea/
+*.swp
+*~
